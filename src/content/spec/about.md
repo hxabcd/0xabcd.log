@@ -2,7 +2,7 @@
 
 ## 👋欢迎
 
-<span style="font-size: 42px; font-weight: bold;">ヾ(•ω•\`)o </span><span style="font-size: 24px;">你好~</span>
+<span style="font-size: 42px; font-weight: bold;">ヾ(•ω•`)o </span><span style="font-size: 24px;">你好~</span>
 
 这里是 HxAbCd 的个人博客，
 <span style="
@@ -46,4 +46,4 @@ Github：[hxabcd](https://github.com/hxabcd)
 
 QQ：2189148596
 
-交流群（BSOD-MEMZ）：[BSOD-MEMZ的科技交流群](https://qm.qq.com/q/xjhsn9U8zQ)
+交流群：[BSOD-MEMZ的科技交流群](https://qm.qq.com/q/xjhsn9U8zQ)
