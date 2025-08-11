@@ -5,7 +5,7 @@ description: '时隔三年，我的个人网站终于重建……'
 image: ''
 tags: [建站, Astro, Fuwari, Netlify]
 category: '技术'
-draft: true 
+draft: false 
 ---
 
 <p style='font-size: 16px'>终于……</p>
