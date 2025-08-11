@@ -1,5 +1,5 @@
 ---
-title: 0xAbCd Log，堂堂复活！
+title: Log 0xAbCd，堂堂复活！
 published: 2025-08-11
 description: '时隔三年，我的个人网站终于重建……'
 image: ''

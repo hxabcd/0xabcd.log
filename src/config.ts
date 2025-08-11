@@ -8,21 +8,23 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "0xAbCd Log",
-	subtitle: "My Personal Dev Blog",
-	lang: "zh_CN",
+	title: "Log 0xAbCd",
+	subtitle: "A personal blog by HxAbCd",
+	description:
+		"HxAbCd的个人开发博客，记载心路历程、分享个人项目、记录开发心得、探索程序世界",
+	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
-		hue: 280,
-		fixed: true,
+		hue: 280, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		fixed: true, // Hide the theme color picker for visitors
 	},
 	banner: {
 		enable: false,
-		src: "assets/images/banner_salt.jpg",
-		position: "center",
+		src: "assets/images/banner_salt.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: true,
-			text: "青葉もち",
-			url: "https://www.pixiv.net/artworks/126586415",
+			enable: true, // Display the credit text of the banner image
+			text: "青葉もち", // Credit text to be displayed
+			url: "https://www.pixiv.net/artworks/126586415", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
