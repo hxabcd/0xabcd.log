@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Log 0xAbCd",
+	title: "0xAbCd Log",
 	subtitle: "A personal blog by HxAbCd",
 	description:
 		"HxAbCd的个人开发博客，记载心路历程、分享个人项目、记录开发心得、探索程序世界",

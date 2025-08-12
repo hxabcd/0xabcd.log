@@ -14,7 +14,7 @@
   border-radius: 8px;
   display: inline-block;
   box-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
-"> > Log 0xAbCd</span>
+"> > 0xAbCd Log</span>
 
 这里不一定是什么高深的技术分享社区，也不见得是什么圣地，可能只是给我自己一个随便发点什么东西的地方。一方面为了不让自己的项目在茫茫互联网中被彻底埋没，让自己折腾浪费的光阴在时间的长河中留下些许痕迹；另一方面或许是让自己能有一个垃圾桶，让某些情绪得以宣泄？
 
@@ -24,7 +24,7 @@
 
 使用 `Astro` & `Fuwari`，由 `Netlify` 强力驱动
 
-更多建站细节，参见 [Log 0xAbCd，堂堂复活！](/posts/site-revive/)
+更多建站细节，参见 [0xAbCd Log，堂堂复活！](/posts/site-revive/)
 
 ## 👤关于我
 
