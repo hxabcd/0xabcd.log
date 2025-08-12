@@ -88,8 +88,8 @@ export const licenseConfig: LicenseConfig = {
 
 export const umamiConfig: UmamiConfig = {
 	enable: true,
-	baseUrl: "https://cloud.umami.is",
-	shareId: "7PoDRgCzHFTs2vWB",
+	baseUrl: "https://us.umami.is",
+	shareId: "43Xmt1sB9z6bG1e0",
 	timezone: "Asia/Shanghai",
 };
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
