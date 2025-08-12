@@ -2,7 +2,7 @@
 title: 使用 ClassIsland 自动化，全自动登录希沃白板
 published: 2025-04-25
 description: 'ClassIsland 「自动化」与 Auto Login for EasiNote 强强联手、珠联璧合，让你的希沃白板使用体验再飞跃。'
-image: ''
+image: 'pic1.png'
 tags: [ClassIsland, 希沃白板, 自动化]
 category: '技术'
 draft: false 

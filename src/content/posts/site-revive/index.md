@@ -2,7 +2,7 @@
 title: 0xAbCd Log，堂堂复活！
 published: 2025-08-11
 description: '时隔三年，我的个人网站终于重建……'
-image: ''
+image: 'cover.png'
 tags: [建站, Astro, Fuwari, Netlify]
 category: '技术'
 draft: false 
