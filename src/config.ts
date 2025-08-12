@@ -52,11 +52,11 @@ export const navBarConfig: NavBarConfig = {
 			url: "/friends/",
 			external: false,
 		},
-		// {
-		// 	name: "GitHub",
-		// 	url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
-		// 	external: true, // Show an external link icon and will open in a new tab
-		// },
+		{
+			name: "统计",
+			url: "https://us.umami.is/share/43Xmt1sB9z6bG1e0/0xabcd.dev", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
 	],
 };
 
