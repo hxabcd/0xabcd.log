@@ -1,6 +1,6 @@
 {
     "latest": "1.2.1",
-    "latest_dev": "1.2.2b2",
+    "latest_dev": "1.2.2b3",
     "versions": {
         "1.0.0": {
             "is_dev": false,
@@ -485,6 +485,32 @@
                     "channel": "lite",
                     "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b2/EasiAuto_v1.2.2b2_lite.zip",
                     "sha256": "add97a64920551c824e6f0ce9d392e7c0e8770756109d293aa7ac474d0288f43"
+                }
+            ]
+        },
+        "1.2.2b3": {
+            "is_dev": true,
+            "confirm_required": false,
+            "description": null,
+            "highlights": [],
+            "others": [
+                "新增 修补希沃白板设置项",
+                "新增 支持提升至管理员权限",
+                "修复 二维码登录不可用",
+                "修复 无法退出登录",
+                "修复 隐私保护遮罩无法禁用",
+                "优化 更新通知文案与公告卡片间距"
+            ],
+            "downloads": [
+                {
+                    "channel": "default",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b3/EasiAuto_v1.2.2b3.zip",
+                    "sha256": "4a2d0f494b4ac59433916c50db1054f7053583c2bb5bb1e341351b538b173a06"
+                },
+                {
+                    "channel": "lite",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b3/EasiAuto_v1.2.2b3_lite.zip",
+                    "sha256": "097d10c55c80cab76e1d6684597a4e81c13da831705f65c74b4d00b849a76bcb"
                 }
             ]
         }
