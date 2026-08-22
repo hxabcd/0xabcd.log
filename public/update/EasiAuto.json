@@ -517,7 +517,7 @@
         "1.2.2b4": {
             "is_dev": true,
             "confirm_required": false,
-            "description": "此版本已彻底移除二维码档案相关代码，，可能需要重新创建档案",
+            "description": "此版本已彻底移除二维码档案相关代码，可能需要重新创建档案",
             "highlights": [
                 {
                     "name": "初次使用向导",
