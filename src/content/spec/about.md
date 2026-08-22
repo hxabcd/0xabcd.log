@@ -34,7 +34,6 @@
 * 构成：
   * 编程 & 开发（Python, Web）
   * 游戏（Minecraft、maimai、各类PC游戏、以及一系列已经退坑的）
-  * 调音（虽然目前为止仅有一个作品）
 
 ## ✉️联系我
 
@@ -46,4 +45,3 @@ Github：[hxabcd](https://github.com/hxabcd)
 
 QQ：2189148596
 
-交流群：[BSOD-MEMZ的科技交流群](https://qm.qq.com/q/xjhsn9U8zQ)
