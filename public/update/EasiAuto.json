@@ -1,6 +1,6 @@
 {
     "latest": "1.2.1",
-    "latest_dev": "1.2.2b3",
+    "latest_dev": "1.2.2b4",
     "versions": {
         "1.0.0": {
             "is_dev": false,
@@ -511,6 +511,38 @@
                     "channel": "lite",
                     "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b3/EasiAuto_v1.2.2b3_lite.zip",
                     "sha256": "097d10c55c80cab76e1d6684597a4e81c13da831705f65c74b4d00b849a76bcb"
+                }
+            ]
+        },
+        "1.2.2b4": {
+            "is_dev": true,
+            "confirm_required": false,
+            "description": "此版本已彻底移除二维码档案相关代码，，可能需要重新创建档案",
+            "highlights": [
+                {
+                    "name": "初次使用向导",
+                    "description": "在首次启动应用提供更清晰的引导时"
+                }
+            ],
+            "others": [
+                "新增 令牌登录",
+                "新增 档案创建校验",
+                "新增 档案头像显示",
+                "优化 部分配置组件样式",
+                "优化 ClassIsland 探测",
+                "优化 动画刷新率",
+                "移除 二维码档案"
+            ],
+            "downloads": [
+                {
+                    "channel": "default",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b4/EasiAuto_v1.2.2b4.zip",
+                    "sha256": "e18301e4f2b599808eec696143a4f4bb21f51701306562e2e87015972ac568e9"
+                },
+                {
+                    "channel": "lite",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b4/EasiAuto_v1.2.2b4_lite.zip",
+                    "sha256": "3d6ca6a48ac6051054c3d05e31468b0aa159bc036312acb761ba25741821602d"
                 }
             ]
         }
