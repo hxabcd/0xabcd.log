@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
 		fixed: true, // Hide the theme color picker for visitors
 	},
 	background: {
-		enable: true, // Enable background image
+		enable: false, // Enable background image
 		src: "/images/tsunagite_salt.jpg", // Background image URL (supports HTTPS)
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
 	},
 	backgroundDark: {
 		// Background image for dark mode
-		enable: true,
+		enable: false,
 		src: "/images/fes_salt_dark.jpg",
 		opacity: 0.5,
 	},
