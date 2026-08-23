@@ -1,6 +1,6 @@
 {
     "latest": "1.2.1",
-    "latest_dev": "1.2.2b4",
+    "latest_dev": "1.2.2b5",
     "versions": {
         "1.0.0": {
             "is_dev": false,
@@ -543,6 +543,29 @@
                     "channel": "lite",
                     "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b4/EasiAuto_v1.2.2b4_lite.zip",
                     "sha256": "3d6ca6a48ac6051054c3d05e31468b0aa159bc036312acb761ba25741821602d"
+                }
+            ]
+        },
+        "1.2.2b5": {
+            "is_dev": true,
+            "confirm_required": false,
+            "description": null,
+            "highlights": [],
+            "others": [
+                "优化 公告卡片样式",
+                "优化 构建流程",
+                "修复 关闭对话框时动画清理异常"
+            ],
+            "downloads": [
+                {
+                    "channel": "default",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b5/EasiAuto_v1.2.2b5.zip",
+                    "sha256": "268068b371ef68ab1a1b8606cea70419927c14e80c72cf1b733f75192a3b4369"
+                },
+                {
+                    "channel": "lite",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b5/EasiAuto_v1.2.2b5_lite.zip",
+                    "sha256": "8d1f74d991b595cae64a5c47d3fcb9f7f339e5f48262244f2a3e95da2f8625a9"
                 }
             ]
         }
