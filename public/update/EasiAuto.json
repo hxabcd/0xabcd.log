@@ -1,6 +1,6 @@
 {
     "latest": "1.2.1",
-    "latest_dev": "1.2.2b5",
+    "latest_dev": "1.2.2b6",
     "versions": {
         "1.0.0": {
             "is_dev": false,
@@ -566,6 +566,35 @@
                     "channel": "lite",
                     "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b5/EasiAuto_v1.2.2b5_lite.zip",
                     "sha256": "8d1f74d991b595cae64a5c47d3fcb9f7f339e5f48262244f2a3e95da2f8625a9"
+                }
+            ]
+        },
+        "1.2.2b6": {
+            "is_dev": true,
+            "confirm_required": false,
+            "description": null,
+            "highlights": [],
+            "others": [
+                "新增 档案自定义头像",
+                "新增 请求更新账号信息",
+                "新增 档案加密保护",
+                "新增 双击档案卡片科目标签跳转对应科目关联设置",
+                "优化 统计信息账号脱敏",
+                "优化 登录状态检查增加UID缓存",
+                "优化 部分页面间距",
+                "优化 公告卡片视觉效果",
+                "优化 关于页布局"
+            ],
+            "downloads": [
+                {
+                    "channel": "default",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b6/EasiAuto_v1.2.2b6.zip",
+                    "sha256": "8288aeddd27768e1348f4859f5edd53602a4b6e56914fb58019f534a85f704ac"
+                },
+                {
+                    "channel": "lite",
+                    "url": "https://github.com/hxabcd/EasiAuto/releases/download/v1.2.2b6/EasiAuto_v1.2.2b6_lite.zip",
+                    "sha256": "c86a1ca126a291b69a6a64413841174e4cf66e6ecc7e56bb1bf65b39a992c29f"
                 }
             ]
         }
